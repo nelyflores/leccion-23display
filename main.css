@@ -4,12 +4,13 @@ div{
 	width: 510px;
 	font-size: 20px;
 	display: block;
-		
-	}
+	margin-bottom: 15px;
+	
+}
 #caja1 {
 	background-color: red;
 	display: block;
-	border:1px solid black;
+	
 
 
 }
