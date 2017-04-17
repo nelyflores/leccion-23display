@@ -1,15 +1,13 @@
 div{
 	background-color:yellow;
-	height: 50px;
-	width: 510px;
 	font-size: 20px;
-	display: block;
-	margin-bottom: 15px;
+	display: inline;
 	
+
 }
 #caja1 {
 	background-color: red;
-	display: block;
+	
 	
 
 
